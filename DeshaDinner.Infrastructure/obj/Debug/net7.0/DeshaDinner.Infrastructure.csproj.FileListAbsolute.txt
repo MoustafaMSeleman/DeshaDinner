@@ -1,0 +1,11 @@
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Infrastructure\bin\Debug\net7.0\DeshaDinner.Infrastructure.deps.json
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Infrastructure\bin\Debug\net7.0\DeshaDinner.Infrastructure.dll
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Infrastructure\bin\Debug\net7.0\DeshaDinner.Infrastructure.pdb
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Infrastructure\obj\Debug\net7.0\DeshaDinner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Infrastructure\obj\Debug\net7.0\DeshaDinner.Infrastructure.AssemblyInfoInputs.cache
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Infrastructure\obj\Debug\net7.0\DeshaDinner.Infrastructure.AssemblyInfo.cs
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Infrastructure\obj\Debug\net7.0\DeshaDinner.Infrastructure.csproj.CoreCompileInputs.cache
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Infrastructure\obj\Debug\net7.0\DeshaDinner.Infrastructure.dll
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Infrastructure\obj\Debug\net7.0\refint\DeshaDinner.Infrastructure.dll
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Infrastructure\obj\Debug\net7.0\DeshaDinner.Infrastructure.pdb
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Infrastructure\obj\Debug\net7.0\ref\DeshaDinner.Infrastructure.dll

@@ -1,0 +1,11 @@
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Application\bin\Debug\net7.0\DeshaDinner.Application.deps.json
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Application\bin\Debug\net7.0\DeshaDinner.Application.dll
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Application\bin\Debug\net7.0\DeshaDinner.Application.pdb
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Application\obj\Debug\net7.0\DeshaDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Application\obj\Debug\net7.0\DeshaDinner.Application.AssemblyInfoInputs.cache
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Application\obj\Debug\net7.0\DeshaDinner.Application.AssemblyInfo.cs
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Application\obj\Debug\net7.0\DeshaDinner.Application.csproj.CoreCompileInputs.cache
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Application\obj\Debug\net7.0\DeshaDinner.Application.dll
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Application\obj\Debug\net7.0\refint\DeshaDinner.Application.dll
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Application\obj\Debug\net7.0\DeshaDinner.Application.pdb
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Application\obj\Debug\net7.0\ref\DeshaDinner.Application.dll

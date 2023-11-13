@@ -1,0 +1,11 @@
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Domain\bin\Debug\net7.0\DeshaDinner.Domain.deps.json
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Domain\bin\Debug\net7.0\DeshaDinner.Domain.dll
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Domain\bin\Debug\net7.0\DeshaDinner.Domain.pdb
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Domain\obj\Debug\net7.0\DeshaDinner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Domain\obj\Debug\net7.0\DeshaDinner.Domain.AssemblyInfoInputs.cache
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Domain\obj\Debug\net7.0\DeshaDinner.Domain.AssemblyInfo.cs
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Domain\obj\Debug\net7.0\DeshaDinner.Domain.csproj.CoreCompileInputs.cache
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Domain\obj\Debug\net7.0\DeshaDinner.Domain.dll
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Domain\obj\Debug\net7.0\refint\DeshaDinner.Domain.dll
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Domain\obj\Debug\net7.0\DeshaDinner.Domain.pdb
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Domain\obj\Debug\net7.0\ref\DeshaDinner.Domain.dll

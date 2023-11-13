@@ -1,0 +1,11 @@
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Contracts\bin\Debug\net7.0\DeshaDinner.Contracts.deps.json
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Contracts\bin\Debug\net7.0\DeshaDinner.Contracts.dll
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Contracts\bin\Debug\net7.0\DeshaDinner.Contracts.pdb
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Contracts\obj\Debug\net7.0\DeshaDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Contracts\obj\Debug\net7.0\DeshaDinner.Contracts.AssemblyInfoInputs.cache
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Contracts\obj\Debug\net7.0\DeshaDinner.Contracts.AssemblyInfo.cs
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Contracts\obj\Debug\net7.0\DeshaDinner.Contracts.csproj.CoreCompileInputs.cache
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Contracts\obj\Debug\net7.0\DeshaDinner.Contracts.dll
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Contracts\obj\Debug\net7.0\refint\DeshaDinner.Contracts.dll
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Contracts\obj\Debug\net7.0\DeshaDinner.Contracts.pdb
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Contracts\obj\Debug\net7.0\ref\DeshaDinner.Contracts.dll
