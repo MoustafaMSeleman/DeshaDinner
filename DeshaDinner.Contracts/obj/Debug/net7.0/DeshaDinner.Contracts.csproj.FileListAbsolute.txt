@@ -9,3 +9,4 @@ D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Contracts\obj\Debug\net7.0\Des
 D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Contracts\obj\Debug\net7.0\refint\DeshaDinner.Contracts.dll
 D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Contracts\obj\Debug\net7.0\DeshaDinner.Contracts.pdb
 D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Contracts\obj\Debug\net7.0\ref\DeshaDinner.Contracts.dll
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Contracts\obj\Debug\net7.0\DeshaDinner.Contracts.sourcelink.json

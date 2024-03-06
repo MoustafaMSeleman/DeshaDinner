@@ -31,3 +31,12 @@ D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Api\obj\Debug\net7.0\refint\De
 D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Api\obj\Debug\net7.0\DeshaDinner.Api.pdb
 D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Api\obj\Debug\net7.0\DeshaDinner.Api.genruntimeconfig.cache
 D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Api\obj\Debug\net7.0\ref\DeshaDinner.Api.dll
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Api\bin\Debug\net7.0\DeshaDinner.Application.dll
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Api\bin\Debug\net7.0\DeshaDinner.Contracts.dll
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Api\bin\Debug\net7.0\DeshaDinner.Domain.dll
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Api\bin\Debug\net7.0\DeshaDinner.Infrastructure.dll
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Api\bin\Debug\net7.0\DeshaDinner.Contracts.pdb
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Api\bin\Debug\net7.0\DeshaDinner.Application.pdb
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Api\bin\Debug\net7.0\DeshaDinner.Infrastructure.pdb
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Api\bin\Debug\net7.0\DeshaDinner.Domain.pdb
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Api\obj\Debug\net7.0\DeshaDinner.Api.sourcelink.json

@@ -9,3 +9,4 @@ D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Domain\obj\Debug\net7.0\DeshaD
 D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Domain\obj\Debug\net7.0\refint\DeshaDinner.Domain.dll
 D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Domain\obj\Debug\net7.0\DeshaDinner.Domain.pdb
 D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Domain\obj\Debug\net7.0\ref\DeshaDinner.Domain.dll
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Domain\obj\Debug\net7.0\DeshaDinner.Domain.sourcelink.json

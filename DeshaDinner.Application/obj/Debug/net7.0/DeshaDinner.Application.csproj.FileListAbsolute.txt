@@ -9,3 +9,8 @@ D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Application\obj\Debug\net7.0\D
 D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Application\obj\Debug\net7.0\refint\DeshaDinner.Application.dll
 D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Application\obj\Debug\net7.0\DeshaDinner.Application.pdb
 D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Application\obj\Debug\net7.0\ref\DeshaDinner.Application.dll
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Application\bin\Debug\net7.0\DeshaDinner.Domain.dll
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Application\bin\Debug\net7.0\DeshaDinner.Domain.pdb
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Application\obj\Debug\net7.0\DeshaDinner.Application.csproj.AssemblyReference.cache
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Application\obj\Debug\net7.0\DeshaDinner.Application.csproj.CopyComplete
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Application\obj\Debug\net7.0\DeshaDinner.Application.sourcelink.json

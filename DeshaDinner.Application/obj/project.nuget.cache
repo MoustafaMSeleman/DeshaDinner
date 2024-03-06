@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "FNATLH65JTSDQqp/e/Yi+v0BcD8gFNCYF6emkq45SzA6yYXCj0s04uVQD/uvmj++g8OU+erRH1p4U0rhHKeqPw==",
+  "dgSpecHash": "mqnhb+cc+X/0m/xFPvuaSj3r44tJoN1y+IGdsX/6qXtY3DJXs3yxugqEgjw02X9F3KNiAJoFdZvtbV+E70F9Pg==",
   "success": true,
   "projectFilePath": "D:\\DotNet Core\\MyProjects\\DeshaDinner\\DeshaDinner.Application\\DeshaDinner.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Desha\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Desha\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Desha\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Desha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

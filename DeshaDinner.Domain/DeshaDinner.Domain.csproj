@@ -6,4 +6,15 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Dinner\" />
+    <Folder Include="Menu\" />
+    <Folder Include="MenuReview\" />
+    <Folder Include="Guest\" />
+    <Folder Include="Host\" />
+    <Folder Include="Bill\" />
+    <Folder Include="Common\" />
+    <Folder Include="User\" />
+  </ItemGroup>
+
 </Project>

@@ -9,3 +9,10 @@ D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Infrastructure\obj\Debug\net7.
 D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Infrastructure\obj\Debug\net7.0\refint\DeshaDinner.Infrastructure.dll
 D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Infrastructure\obj\Debug\net7.0\DeshaDinner.Infrastructure.pdb
 D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Infrastructure\obj\Debug\net7.0\ref\DeshaDinner.Infrastructure.dll
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Infrastructure\bin\Debug\net7.0\DeshaDinner.Application.dll
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Infrastructure\bin\Debug\net7.0\DeshaDinner.Domain.dll
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Infrastructure\bin\Debug\net7.0\DeshaDinner.Application.pdb
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Infrastructure\bin\Debug\net7.0\DeshaDinner.Domain.pdb
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Infrastructure\obj\Debug\net7.0\DeshaDinner.Infrastructure.csproj.AssemblyReference.cache
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Infrastructure\obj\Debug\net7.0\DeshaDinner.Infrastructure.csproj.CopyComplete
+D:\DotNet Core\MyProjects\DeshaDinner\DeshaDinner.Infrastructure\obj\Debug\net7.0\DeshaDinner.Infrastructure.sourcelink.json

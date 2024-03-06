@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "tfcJUND8fhe0N+vn5RTKUOjTqiXGqp9byCTzCabzkKo8WfFNP3Tq2YYq9nXIXkihytsEbMSx/p3wWQuq4tMTlQ==",
+  "dgSpecHash": "KdmAbTHH4FmQcFfxsYoACuZGTJZ/Ae6IYbtoWgaLiyPIiHCGXnh+8E22oScW7QVxAkK1x6L4zrq6Q1Pf8MOy/w==",
   "success": true,
   "projectFilePath": "D:\\DotNet Core\\MyProjects\\DeshaDinner\\DeshaDinner.Contracts\\DeshaDinner.Contracts.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Desha\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Desha\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Desha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
