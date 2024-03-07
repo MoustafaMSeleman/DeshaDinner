@@ -315,6 +315,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.SqlServer.SqlManagementObjects": {
+              "target": "Package",
+              "version": "[170.23.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
