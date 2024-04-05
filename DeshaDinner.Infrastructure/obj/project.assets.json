@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "DeshaDinner.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "DeshaDinner.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DeshaDinner.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DeshaDinner.Application.dll": {}
+        }
+      },
+      "DeshaDinner.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DeshaDinner.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DeshaDinner.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeshaDinner.Application/1.0.0": {
+      "type": "project",
+      "path": "../DeshaDinner.Application/DeshaDinner.Application.csproj",
+      "msbuildProject": "../DeshaDinner.Application/DeshaDinner.Application.csproj"
+    },
+    "DeshaDinner.Domain/1.0.0": {
+      "type": "project",
+      "path": "../DeshaDinner.Domain/DeshaDinner.Domain.csproj",
+      "msbuildProject": "../DeshaDinner.Domain/DeshaDinner.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "DeshaDinner.Application >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Moustafa\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\DotNet\\Domain-driven design\\My Projects\\DeshaDinner\\DeshaDinner.Infrastructure\\DeshaDinner.Infrastructure.csproj",
+      "projectName": "DeshaDinner.Infrastructure",
+      "projectPath": "E:\\DotNet\\Domain-driven design\\My Projects\\DeshaDinner\\DeshaDinner.Infrastructure\\DeshaDinner.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Moustafa\\.nuget\\packages\\",
+      "outputPath": "E:\\DotNet\\Domain-driven design\\My Projects\\DeshaDinner\\DeshaDinner.Infrastructure\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Moustafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "E:\\DotNet\\Domain-driven design\\My Projects\\DeshaDinner\\DeshaDinner.Application\\DeshaDinner.Application.csproj": {
+              "projectPath": "E:\\DotNet\\Domain-driven design\\My Projects\\DeshaDinner\\DeshaDinner.Application\\DeshaDinner.Application.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

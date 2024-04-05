@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DeshaDinner.Application/1.0.0": {
+        "dependencies": {
+          "DeshaDinner.Domain": "1.0.0"
+        },
+        "runtime": {
+          "DeshaDinner.Application.dll": {}
+        }
+      },
+      "DeshaDinner.Domain/1.0.0": {
+        "runtime": {
+          "DeshaDinner.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeshaDinner.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DeshaDinner.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,6 @@
+@DeshaDinner.Api_HostAddress = http://localhost:5052
+
+GET {{DeshaDinner.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

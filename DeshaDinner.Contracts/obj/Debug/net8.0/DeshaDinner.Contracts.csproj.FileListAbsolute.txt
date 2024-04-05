@@ -1,0 +1,12 @@
+E:\DotNet\Domain-driven design\My Projects\DeshaDinner\DeshaDinner.Contracts\bin\Debug\net8.0\DeshaDinner.Contracts.deps.json
+E:\DotNet\Domain-driven design\My Projects\DeshaDinner\DeshaDinner.Contracts\bin\Debug\net8.0\DeshaDinner.Contracts.dll
+E:\DotNet\Domain-driven design\My Projects\DeshaDinner\DeshaDinner.Contracts\bin\Debug\net8.0\DeshaDinner.Contracts.pdb
+E:\DotNet\Domain-driven design\My Projects\DeshaDinner\DeshaDinner.Contracts\obj\Debug\net8.0\DeshaDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\Domain-driven design\My Projects\DeshaDinner\DeshaDinner.Contracts\obj\Debug\net8.0\DeshaDinner.Contracts.AssemblyInfoInputs.cache
+E:\DotNet\Domain-driven design\My Projects\DeshaDinner\DeshaDinner.Contracts\obj\Debug\net8.0\DeshaDinner.Contracts.AssemblyInfo.cs
+E:\DotNet\Domain-driven design\My Projects\DeshaDinner\DeshaDinner.Contracts\obj\Debug\net8.0\DeshaDinner.Contracts.csproj.CoreCompileInputs.cache
+E:\DotNet\Domain-driven design\My Projects\DeshaDinner\DeshaDinner.Contracts\obj\Debug\net8.0\DeshaDinner.Contracts.sourcelink.json
+E:\DotNet\Domain-driven design\My Projects\DeshaDinner\DeshaDinner.Contracts\obj\Debug\net8.0\DeshaDinner.Contracts.dll
+E:\DotNet\Domain-driven design\My Projects\DeshaDinner\DeshaDinner.Contracts\obj\Debug\net8.0\refint\DeshaDinner.Contracts.dll
+E:\DotNet\Domain-driven design\My Projects\DeshaDinner\DeshaDinner.Contracts\obj\Debug\net8.0\DeshaDinner.Contracts.pdb
+E:\DotNet\Domain-driven design\My Projects\DeshaDinner\DeshaDinner.Contracts\obj\Debug\net8.0\ref\DeshaDinner.Contracts.dll
