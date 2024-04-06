@@ -10,3 +10,4 @@ E:\DotNet\Domain-driven design\My Projects\DeshaDinner\DeshaDinner.Domain\obj\De
 E:\DotNet\Domain-driven design\My Projects\DeshaDinner\DeshaDinner.Domain\obj\Debug\net8.0\refint\DeshaDinner.Domain.dll
 E:\DotNet\Domain-driven design\My Projects\DeshaDinner\DeshaDinner.Domain\obj\Debug\net8.0\DeshaDinner.Domain.pdb
 E:\DotNet\Domain-driven design\My Projects\DeshaDinner\DeshaDinner.Domain\obj\Debug\net8.0\ref\DeshaDinner.Domain.dll
+E:\DotNet\Domain-driven design\My Projects\DeshaDinner\DeshaDinner.Domain\obj\Debug\net8.0\DeshaDinner.Domain.csproj.AssemblyReference.cache

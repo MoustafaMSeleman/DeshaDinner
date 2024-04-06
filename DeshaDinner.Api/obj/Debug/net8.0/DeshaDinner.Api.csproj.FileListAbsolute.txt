@@ -39,3 +39,14 @@ E:\DotNet\Domain-driven design\My Projects\DeshaDinner\DeshaDinner.Api\bin\Debug
 E:\DotNet\Domain-driven design\My Projects\DeshaDinner\DeshaDinner.Api\bin\Debug\net8.0\DeshaDinner.Contracts.pdb
 E:\DotNet\Domain-driven design\My Projects\DeshaDinner\DeshaDinner.Api\bin\Debug\net8.0\DeshaDinner.Infrastructure.pdb
 E:\DotNet\Domain-driven design\My Projects\DeshaDinner\DeshaDinner.Api\bin\Debug\net8.0\DeshaDinner.Domain.pdb
+E:\DotNet\Domain-driven design\My Projects\DeshaDinner\DeshaDinner.Api\bin\Debug\net8.0\ErrorOr.dll
+E:\DotNet\Domain-driven design\My Projects\DeshaDinner\DeshaDinner.Api\bin\Debug\net8.0\Mapster.dll
+E:\DotNet\Domain-driven design\My Projects\DeshaDinner\DeshaDinner.Api\bin\Debug\net8.0\Mapster.Core.dll
+E:\DotNet\Domain-driven design\My Projects\DeshaDinner\DeshaDinner.Api\bin\Debug\net8.0\Mapster.DependencyInjection.dll
+E:\DotNet\Domain-driven design\My Projects\DeshaDinner\DeshaDinner.Api\bin\Debug\net8.0\MediatR.dll
+E:\DotNet\Domain-driven design\My Projects\DeshaDinner\DeshaDinner.Api\bin\Debug\net8.0\MediatR.Contracts.dll
+E:\DotNet\Domain-driven design\My Projects\DeshaDinner\DeshaDinner.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\DotNet\Domain-driven design\My Projects\DeshaDinner\DeshaDinner.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\DotNet\Domain-driven design\My Projects\DeshaDinner\DeshaDinner.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\DotNet\Domain-driven design\My Projects\DeshaDinner\DeshaDinner.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\DotNet\Domain-driven design\My Projects\DeshaDinner\DeshaDinner.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

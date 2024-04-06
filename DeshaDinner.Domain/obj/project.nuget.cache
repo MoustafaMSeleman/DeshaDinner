@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Gaf3xZnfXLuu6MK4U1E8rRNPx0Cd7uK0HmrXmuHV/BX2XODa7gH17mdDDUtjukYwRH/+pKBaz+N6h4etzDfT9A==",
+  "dgSpecHash": "SJ1X+kJkJ6WS2GaiAkJgdPAXS33i3ytff4rWq612RUnGuRHEOCQcs8zndyCuZigw/SEOPP6U+3elYawYy6SkRg==",
   "success": true,
   "projectFilePath": "E:\\DotNet\\Domain-driven design\\My Projects\\DeshaDinner\\DeshaDinner.Domain\\DeshaDinner.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Moustafa\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
